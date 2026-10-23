@@ -144,7 +144,9 @@ def changed_paths_for_target(target: Path) -> tuple[str, ...]:
     return lifecycle_app.changed_paths_for_target(TargetRequest(target))
 
 
-AGENT_ADOPTION_URL = "https://safurrier.github.io/harness-toolkit/agent-adoption/"
+AGENT_ADOPTION_URL = (
+    "https://alex-furrier.github.io/harness-toolkit/how-to/agent-adoption/"
+)
 InstructionScope = Literal["user", "repo"]
 
 

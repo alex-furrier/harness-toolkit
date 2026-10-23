@@ -18,7 +18,7 @@ hk = "harness_toolkit.kit.cli:main"
 
 [project.urls]
 Homepage = "https://github.com/safurrier/harness-toolkit"
-Documentation = "https://safurrier.github.io/harness-toolkit"
+Documentation = "https://alex-furrier.github.io/harness-toolkit"
 Repository = "https://github.com/safurrier/harness-toolkit"
 Issues = "https://github.com/safurrier/harness-toolkit/issues"
 

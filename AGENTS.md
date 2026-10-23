@@ -50,6 +50,8 @@ use it only in a copied scaffold or throwaway init target.
 
 ## Gotchas
 
+- **DO** use `https://alex-furrier.github.io/` for this account's current project documentation. **NOT** use `safurrier.github.io`. **BECAUSE** the old Pages host returns 404 after the account rename; GitHub repository redirects do not redirect Pages.
+
 - **DO** run `uv run pytest -m "not slow"` for fast feedback. **NOT** plain
   `uv run pytest` by default. **BECAUSE** the full suite can include slow stack
   E2E paths that need extra toolchains.
