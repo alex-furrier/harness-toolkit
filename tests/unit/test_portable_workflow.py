@@ -177,7 +177,7 @@ def test_workflow_instructions_default_to_user_level_snippet() -> None:
         in payload["agents_md"]
     )
     assert (
-        "https://safurrier.github.io/harness-toolkit/agent-adoption/"
+        "https://alex-furrier.github.io/harness-toolkit/how-to/agent-adoption/"
         in payload["agents_md"]
     )
     assert "--profile generic" not in payload["agents_md"]

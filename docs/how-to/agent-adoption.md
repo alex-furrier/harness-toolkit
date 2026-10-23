@@ -35,7 +35,7 @@ hk profile resolve --target . --json
 Use the repo or module that owns the work as `--target`. Profile flags are only for discovery commands such as `hk profile`, `hk checks`, and repo-scope `hk instructions`; do not pass `--profile` or `--profiles-dir` to lifecycle commands unless that command's help shows those options. Then start work with `hk start demo-work --plan "..."`, record validation with `hk validate --why`, and follow `hk status --target .`.
 
 If `hk` is unavailable or you are unfamiliar with the workflow, read the Harness Kit agent adoption guide before proceeding:
-https://safurrier.github.io/harness-toolkit/agent-adoption/
+https://alex-furrier.github.io/harness-toolkit/how-to/agent-adoption/
 ````
 
 You can print the current version from the CLI:

@@ -46,7 +46,7 @@ harness-scaffold --version
 
 See [Release and Installation](docs/how-to/release.md) for upgrade commands, release
 checklists, and the current no-PyPI-yet policy. The published docs site lives at
-<https://safurrier.github.io/harness-toolkit/>.
+<https://alex-furrier.github.io/harness-toolkit/>.
 
 ## App 1: `hk` for existing repositories
 

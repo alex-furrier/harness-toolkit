@@ -1,8 +1,8 @@
 site_name: harness-toolkit
 site_description: Harness Engineering Toolkit for agent-ready repositories
-site_url: https://safurrier.github.io/harness-toolkit
-repo_url: https://github.com/safurrier/harness-toolkit
-repo_name: safurrier/harness-toolkit
+site_url: https://alex-furrier.github.io/harness-toolkit
+repo_url: https://github.com/alex-furrier/harness-toolkit
+repo_name: alex-furrier/harness-toolkit
 
 theme:
   name: material
